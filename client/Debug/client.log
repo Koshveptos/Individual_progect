@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  sumexpflat.cpp
+E:\progect\c++\IZ real\me\client\sumexpflat.cpp(58,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client.vcxproj -> E:\progect\c++\IZ real\me\library\Debug\client.exe

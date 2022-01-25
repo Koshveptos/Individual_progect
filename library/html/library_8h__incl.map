@@ -1,0 +1,8 @@
+<map id="library.h" name="library.h">
+<area shape="rect" id="node1" title="Главный заголовочный файл в библиотеке" alt="" coords="74,5,142,32"/>
+<area shape="rect" id="node2" href="$homeread_8h.html" title="Заголовочный файл, отвечающий за чтение фала &quot;home.txt&quot;." alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node6" href="$taxesread_8h.html" title="Заголовочный файл, отвечающий за чтение фала &quot;taxes.txt&quot;." alt="" coords="120,80,211,107"/>
+<area shape="rect" id="node3" href="$allheader_8h.html" title="Заголовочный файл, содержащий библиотеки, которые необходимы для работы исполняемых файлов." alt="" coords="65,155,151,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,229,95,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="119,229,188,256"/>
+</map>

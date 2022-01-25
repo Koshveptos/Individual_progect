@@ -1,0 +1,2 @@
+E:\проекты и прочая хрень\си\ИЗ реал\Казаков мяу мяу\library\Debug\library.lib
+E:\progect\c++\IZ real\me\library\Debug\library.lib

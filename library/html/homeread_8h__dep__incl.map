@@ -1,0 +1,5 @@
+<map id="homeread.h" name="homeread.h">
+<area shape="rect" id="node1" title="Заголовочный файл, отвечающий за чтение фала &quot;home.txt&quot;." alt="" coords="67,5,157,32"/>
+<area shape="rect" id="node2" href="$homeread_8cpp.html" title="cpp файл, отвечающий за чтение фала &quot;home.txt&quot;." alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$library_8h.html" title="Главный заголовочный файл в библиотеке" alt="" coords="134,80,202,107"/>
+</map>
